@@ -10,6 +10,10 @@
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **evicoach/evicoach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
